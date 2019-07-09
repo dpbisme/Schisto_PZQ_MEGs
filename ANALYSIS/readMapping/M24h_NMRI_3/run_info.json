@@ -1,0 +1,13 @@
+{
+	"n_targets": 13110,
+	"n_bootstraps": 60,
+	"n_processed": 11048920,
+	"n_pseudoaligned": 8568381,
+	"n_unique": 7200404,
+	"p_pseudoaligned": 77.5,
+	"p_unique": 65.2,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Wed Jun 26 00:28:33 2019",
+	"call": "kallisto quant -i Schistosoma_mansoni.ASM23792v2.cdna.all.index -o M24h_NMRI_3 -b 60 -t 24 ERR578151_1.fastq.gz ERR578151_2.fastq.gz ERR578175_1.fastq.gz ERR578175_2.fastq.gz"
+}
